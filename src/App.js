@@ -54,6 +54,7 @@ function App() {
             <input type="text" placeholder="Enter URL or leave empty for random image from collection" size="50" onChange={handleChange}></input>
           </div>
           <button onClick={onFileUrlEntered}>Analyze</button>
+          <button onClick={onFileUrlEntered}>Generate</button>
         </div>
       }
       {processing && <div>Processing</div>}
