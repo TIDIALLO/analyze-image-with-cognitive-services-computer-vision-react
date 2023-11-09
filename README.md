@@ -22,7 +22,7 @@ In this tutorial, locally build and deploy a React/TypeScript client application
     * [Static web app](https://docs.microsoft.com/azure/static-web-apps)
     * [Cognitive Services' Computer Vision](https://docs.microsoft.com/azure/cognitive-services/computer-vision/)
 
-![](https://docs.microsoft.com/azure/developer/javascript/media/static-web-app/browser-screenshot-react-computervision-app-image-analysis-result.png)
+![](https://learn.microsoft.com/fr-fr/azure/ai-services/computer-vision/media/quickstarts/presentation.png)
 
 ## Features
 
